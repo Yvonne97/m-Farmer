@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lulus DFMS</string>
+    <string name="Username">TextView</string>
+    <string name="username">Username</string>
+</resources>
